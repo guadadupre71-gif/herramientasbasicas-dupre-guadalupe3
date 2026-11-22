@@ -1,5 +1,4 @@
-# herramientasbasicas-dupre-guadalupe3
-# <span style="color:#1E3A8A;">📊 Análisis de Ocupación, Tarifas y Cancelaciones en la Industria Hotelera</span>
+# herramientasbasicas-dupre-guadalupe3# <span style="color:#1E3A8A;">📊 Análisis de Ocupación, Tarifas y Cancelaciones en la Industria Hotelera</span>
 #### *Análisis exploratorio del comportamiento de las reservas hoteleras*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,4 +93,43 @@ El análisis permitió identificar distintos patrones en el comportamiento de la
 
 ### <span style="color:#2563EB;">🛠️ 7. Herramientas y metodología</span>
 
-|
+| Herramienta | Aplicación |
+| :--- | :--- |
+| **Python** | Procesamiento y análisis de datos |
+| **Pandas** | Exploración, limpieza y transformación de datos |
+| **NumPy** | Operaciones y creación de variables derivadas |
+| **Matplotlib** | Construcción de visualizaciones |
+| **Seaborn** | Análisis gráfico y visualización estadística |
+| **Power BI** | Diseño de dashboard interactivo y métricas DAX |
+| **Google Colab** | Desarrollo y documentación del proyecto |
+| **GitHub** | Organización y publicación del proyecto |
+
+---
+
+### <span style="color:#2563EB;">📌 8. Alcance y consideraciones</span>
+Para interpretar correctamente los resultados, es importante tener en cuenta que:
+* El análisis parte de un dataset original de **119.390 registros** y conserva **87.396 registros únicos** tras eliminar duplicados exactos.
+* Los valores nulos fueron tratados según los criterios establecidos durante la limpieza.
+* Las variables derivadas se calcularon a partir de la información disponible en el dataset.
+* La tarifa diaria promedio (`ADR`) y los ingresos estimados son indicadores diferentes.
+* El volumen de reservas no equivale directamente a la tasa de ocupación hotelera.
+* Las relaciones observadas entre variables son descriptivas y no implican necesariamente causalidad.
+
+---
+
+### <span style="color:#2563EB;">📂 9. Estructura del repositorio</span>
+
+```text
+herramientasbasicas-dupre-guadalupe/
+│
+├── data/
+│   └── raw/
+│       └── hotel_bookings.csv
+│
+├── notebooks/
+│   └── Untitled16.ipynb
+│
+├── dashboard/
+│   └── hotel_booking_dashboard.pbix
+│
+└── README.md
