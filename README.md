@@ -1,4 +1,4 @@
-# herramientasbasicas-dupre-guadalupe3# <span style="color:#1E3A8A;">📊 Análisis de Ocupación, Tarifas y Cancelaciones en la Industria Hotelera</span>
+# herramientas basicas-dupre-guadalupe3# <span style="color:#1E3A8A;">📊 Análisis de Ocupación, Tarifas y Cancelaciones en la Industria Hotelera</span>
 #### *Análisis exploratorio del comportamiento de las reservas hoteleras*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
