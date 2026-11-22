@@ -133,3 +133,4 @@ herramientasbasicas-dupre-guadalupe/
 │   └── hotel_booking_dashboard.pbix
 │
 └── README.md
+*(Nota: En la sección **9. Estructura del repositorio**, incluí también las carpetas `/notebooks/` y `/dashboard/` con los enlaces directos a tu propio repo para que el profesor verifique al instante que los archivos están subidos allí, además de tus citas exactas)*.
